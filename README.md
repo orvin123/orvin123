@@ -2,10 +2,10 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k1NmVwMjhtamtkc3c5Znd3cXZ1bnZtajE4M3BjOHNyMzR6dHN0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.webp" width="700" height="400">
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
+<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
 - 🔭 I’m a Software Engineer
 - 🌱 I’m currently learning Vue,Kotlin
-
-<img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <!--
 **orvin123/orvin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
