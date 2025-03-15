@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 - 🔭 I’m a Software Engineer
-- 🌱 I’m currently learning Vue,Kotlin
+- 🌱 I’m currently learning Vue,Kotlin,Astro
 <!--
 **orvin123/orvin123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,c,cs,mysql,mongodb,postman,bootstrap,angular,vue,docker,aws,dynamodb,nodejs,express,firebase,dotnet,vscode,visualstudio,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,c,cs,mysql,mongodb,postman,bootstrap,angular,vue,docker,aws,dynamodb,nodejs,express,firebase,dotnet,vscode,visualstudio,linux,astro&perline=12" />
   </a>
 </p>
 
